@@ -1,0 +1,45 @@
+p
+   {
+     color:red;
+     font-size:20px;
+     font-family:Arial;
+     background-color:blue;
+   }
+   h1 
+  {
+    color:blue;
+    font-size:20px;
+    font-family:Italic;
+    background-color:pink;
+
+  }
+  img
+  {
+    width: 500px;
+    background-size: cover;
+  }
+  #car 
+  {
+    color: blue;
+    font-size:20px;
+    backface-visibility: 20px;
+  }
+  .city
+  {
+    color:blue;
+    font-size:29px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #Box
+  {
+   color:purple;
+   font-size:20px;
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: palegreen;
+   border-radius: 20px;
+   background-origin: content-box;
+   padding-left: 20px;
+   padding-right: 30px;
+   width: 30px;
+   border: 2px;
+  }
